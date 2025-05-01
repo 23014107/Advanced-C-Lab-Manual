@@ -1,12 +1,17 @@
 # EXP NO:2A 
+
 # C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER 
+
 # Aim: 
 To write a C program print the lowercase English word corresponding to the number 
 # Algorithm:
 
 1.Start
+
 2.Initialize an integer variable n.
+
 3.Input Validation
+
 4.Switch Statement cases.
    Case 5: Print "seventy one"
    Case 6: Print "seventy two"
@@ -14,7 +19,9 @@ To write a C program print the lowercase English word corresponding to the numbe
    ...
    Case 13: Print "seventy nine"
    Default: Print "Greater than 13"
+   
 4.Exit the program.
+
 # Program:
 ```
 #include<stdio.h>
@@ -83,12 +90,19 @@ Thus, the program is verified successfully
 # Aim: 
 To write a C program to print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 3. 
 # Algorithm:
+
 1.Start
+
 2.Declare char array a[50] outer loop for each digit from 0 to 3
+
 3.Initialize counter c to 0
+
 4.For each character in the string print count c for current digit, followed by a space
+
 5.Increment h to move to the next digit
+
 6.End
+
 # Program:
 ```
 #include<stdio.h>
