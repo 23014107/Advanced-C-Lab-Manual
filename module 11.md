@@ -235,7 +235,7 @@ int main()
 }
 ~~~
 ## Output:
-![437947831-e5b10af6-0a8e-4ddf-9c16-a6a90d5c1884](https://github.com/user-attachments/assets/87cbd681-16a1-48c9-bf47-8e9e8d8dbad0)
+![Screenshot 2025-05-02 111247](https://github.com/user-attachments/assets/a297142f-e8fe-4670-91be-6a360828c0ff)
 
 ## Result:
 Thus, the program that counts the number of words in a given sentence is verified 
