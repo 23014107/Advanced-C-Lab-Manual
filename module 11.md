@@ -10,7 +10,7 @@ To write a C program to create a function to find the greatest number
 4.	Use scanf to take four integers as input.
 5.	Call the max_of_four function with the input integers and store the result in the greater variable
  
-## Program:
+## Program :
 ~~~
 #include<stdio.h>
 int max_of_four(int a,int b,int c,int d)
