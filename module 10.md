@@ -241,7 +241,7 @@ void delete()
 }
 ~~~
 ## Output:
-![437946582-8d3d8c0c-f1d7-43ab-8e59-1c87e153360a](https://github.com/user-attachments/assets/2010b0d9-27e6-48d3-9a48-4226c19746fd)
+![Screenshot 2025-05-02 110545](https://github.com/user-attachments/assets/c46d7e68-5801-4d49-8d9f-c25ab0e39ffb)
 
 ## Result:
 Thus, the function that deletes a given element from a linked list is verified successfully.
